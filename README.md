@@ -10,7 +10,7 @@ I am Amr Osama, a Full-Stack Web Developer | AI Engineer and a full-time Dad.
 
 👷 Self-Employed at [cairostack](https://cairostack.com)
 
-📈 Building [gopodcast.me](https://gopodcast.me), while contributing to [podcastify](https://www.podcastfy.ai/)
+📈 Building [gopodcast.me](https://gopodcast.me), while contributing to [podcastfy](https://www.podcastfy.ai/)
 
 💬 Master's Student in Software Engineering - Cairo University
 
