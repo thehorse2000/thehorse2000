@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hey👋
 
-<!--
-**thehorse2000/thehorse2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Amr Osama, a Full-Stack Web Developer | AI Engineer and a full-time Dad.
 
-Here are some ideas to get you started:
+### About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💼 Full-Stack ecommerce Developer at @scandiweb
+
+🥇 [Adobe Certified Expert Commerce Developer](https://www.credly.com/badges/b52d8084-d52e-4708-b6b4-6851961e4505/public_url)
+
+👷 Self-Employed at [cairostack](https://cairostack.com)
+
+📈 Building [gopodcast.me](https://gopodcast.me), while contributing to [podcastify](https://www.podcastfy.ai/)
+
+💬 Master's Student in Software Engineering - Cairo University
+
+---
+
+[![Amr's GitHub stats](https://github-readme-stats.vercel.app/api?username=thehorse2000&show_icons=true&theme=ayu-mirage)](https://github.com/anuraghazra/github-readme-stats)
