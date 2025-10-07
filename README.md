@@ -12,6 +12,8 @@ I am Amr Osama, a Full-Stack Web Developer | AI Engineer and a full-time Dad.
 
 📈 Building [gopodcast.me](https://gopodcast.me), while contributing to [podcastfy](https://www.podcastfy.ai/)
 
+🎤 Building [dubbify](https://github.com/thehorse2000/dubbify)
+
 💬 Master's Student in Software Engineering - Cairo University
 
 ---
